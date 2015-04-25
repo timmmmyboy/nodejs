@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/python
+FROM timmmmyboy/python
 
 # Install Node.js
 RUN \
